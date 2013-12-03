@@ -24,3 +24,7 @@ My little collection of resources. Enjoy.
 ### Tools
 
 1. [list.js](https://github.com/javve/list.js): The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML. 
+
+### Testing
+
+1. [Testing Your Model with Mocha, Mongo, and NodeJS](http://www.wekeroad.com/2012/01/06/testing-your-model-with-mocha-mongo-and-nodejs/)
