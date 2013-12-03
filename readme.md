@@ -12,9 +12,13 @@ My little collection of resources. Enjoy.
 2. [Ultimate guide to learning AngularJS in one day](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/): Angular is a client-side MVC/MVVM framework built in JavaScript, essential for modern single page web applications (and even websites). It's a huge leap into the future of HTML and what HTML5 brings, and is a breath of fresh air when dealing with the modern web. This post is a full end to end crash course from my experiences, advice and best practices I've picked up from using it.
 3. [egghead.io](http://egghead.io/): Bite-sized web development training with AngularJS
 
+### Backbone
+
+1. [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/): A creative-commons book on Backbone.js for beginners and advanced users alike
+
 ### Node
 
-1. [Node Fundamentals](http://webapplog.com/node-js-fundamentals-a-concise-overview-of-the-main-concepts/)
+1. [Node Fundamentals](http://webapplog.com/node-js-fundamentals-a-concise-overview-of-the-main-concepts/): A Concise Overview of The Main Concepts
 2. [Node Bootcamp](https://github.com/Aaronontheweb/node-bootcamp): Node Bootcamp is a series of free events aimed at helping new Node.JS developers get from no Node experience whatsoever to being able to produce their first basic Node applications.
 
 ### Tools
