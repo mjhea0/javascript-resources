@@ -5,6 +5,7 @@ My little collection of resources. Enjoy.
 ### JavaScript
 
 1. [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): Series of books diving deep into the core mechanisms of the JavaScript language.
+2. [An Introduction To Full-Stack JavaScript](http://coding.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript): An overview of why full-stack JavaScript might be right for you and how it works its magic.
 
 ### AngularJS
 
