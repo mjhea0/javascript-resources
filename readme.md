@@ -24,6 +24,7 @@ My little collection of resources. Enjoy.
 ### Tools
 
 1. [list.js](https://github.com/javve/list.js): The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML. 
+2. [Bookshelf.js](https://github.com/tgriesser/bookshelf): A Node.js ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js
 
 ### Testing
 
