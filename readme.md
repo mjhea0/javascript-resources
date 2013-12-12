@@ -32,3 +32,7 @@ My little collection of resources. Enjoy.
 ### Testing
 
 1. [Testing Your Model with Mocha, Mongo, and NodeJS](http://www.wekeroad.com/2012/01/06/testing-your-model-with-mocha-mongo-and-nodejs/)
+
+### Express
+
+1. [Understanding Express.js](http://evanhahn.com/understanding-express-js/): This is aimed at people who have some familiarity with Node.js. They know how to run Node scripts and can install packages with npm. You don't have to be an expert, though -- I promise. 
