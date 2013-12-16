@@ -14,6 +14,7 @@ My little collection of resources. Enjoy.
 2. [Ultimate guide to learning AngularJS in one day](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/): Angular is a client-side MVC/MVVM framework built in JavaScript, essential for modern single page web applications (and even websites). It's a huge leap into the future of HTML and what HTML5 brings, and is a breath of fresh air when dealing with the modern web. This post is a full end to end crash course from my experiences, advice and best practices I've picked up from using it.
 3. [egghead.io](http://egghead.io/): Bite-sized web development training with AngularJS
 4. [How to get started (Part 1 of the AngularJS - from beginner to expert in 7 steps series)](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
+5. [How to Unit Test Controllers In AngularJS Without Setting Your Hair On Fire](http://nathanleclaire.com/blog/2013/12/13/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire/)
 
 ### Backbone
 
