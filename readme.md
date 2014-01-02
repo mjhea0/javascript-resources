@@ -8,6 +8,7 @@ My little collection of resources. Enjoy.
 2. [An Introduction To Full-Stack JavaScript](http://coding.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript): An overview of why full-stack JavaScript might be right for you and how it works its magic.
 3. [Understand JavaScript Closures With Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/): This is a relatively short (and sweet :) ) post on the details of closures in JavaScript. You should be familiar with JavaScript variable scope before you read further, because to understand closures you must understand JavaScript’s variable scope.
 4. [Module Pattern in JavaScript](http://www.codeorbits.com/blog/2013/07/17/module-pattern-in-javascript/)
+5. [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/): A JavaScript pattern and antipattern collection that covers function patterns, jQuery patterns, jQuery plugin patterns, design patterns, general patterns, literals and constructor patterns, object creation patterns, code reuse patterns, DOM and browser patterns (upcoming).
 
 ### AngularJS
 
