@@ -10,7 +10,6 @@ My little collection of resources. Enjoy.
 4. [Module Pattern in JavaScript](http://www.codeorbits.com/blog/2013/07/17/module-pattern-in-javascript/)
 5. [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/): A JavaScript pattern and antipattern collection that covers function patterns, jQuery patterns, jQuery plugin patterns, design patterns, general patterns, literals and constructor patterns, object creation patterns, code reuse patterns, DOM and browser patterns (upcoming).
 6. [Javascript Scope Quiz](http://madebyknight.com/javascript-scope/)
-7. [JumpstartLab](http://tutorials.jumpstartlab.com/)
 
 ### AngularJS
 
@@ -42,3 +41,8 @@ My little collection of resources. Enjoy.
 ### Express
 
 1. [Understanding Express.js](http://evanhahn.com/understanding-express-js/): This is aimed at people who have some familiarity with Node.js. They know how to run Node scripts and can install packages with npm. You don't have to be an expert, though -- I promise. 
+
+### Other
+
+1. [JumpstartLab: JavaScript, jQuery, AJAX, Testing](http://tutorials.jumpstartlab.com/)
+2. [Web Development Teaching Materials](http://www.teaching-materials.org/): HTML, CSS, JavaScript, jQuery, AJAX, Backbone
