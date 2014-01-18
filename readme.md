@@ -11,6 +11,10 @@ My little collection of resources. Enjoy.
 5. [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/): A JavaScript pattern and antipattern collection that covers function patterns, jQuery patterns, jQuery plugin patterns, design patterns, general patterns, literals and constructor patterns, object creation patterns, code reuse patterns, DOM and browser patterns (upcoming).
 6. [Javascript Scope Quiz](http://madebyknight.com/javascript-scope/)
 
+### jQuery
+
+1. [Unheap - A tidy repository of jQuery plugins](http://www.unheap.com/)
+
 ### AngularJS
 
 1. [AngularJS Fundamentals](http://traintelco.com/index.php/courses/item/javascript-programming-courses/angularjs-fundamentals.html): In this course you will learn how simple it is to use AngularJS to create maintainable and testable single page applications. You will learn how to: bootstrap your AngularJS application; use AngularJS markup and expressions; create and use controllers; use built-in services and create custom services; turn your application into a SPA using routing; and create your own custom elements and handle events using directives. You will also learn how AngularJS allows you to do all thing using test-driven-development.
