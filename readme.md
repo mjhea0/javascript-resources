@@ -35,6 +35,7 @@ My little collection of resources. Enjoy.
 2. [Node Bootcamp](https://github.com/Aaronontheweb/node-bootcamp): Node Bootcamp is a series of free events aimed at helping new Node.JS developers get from no Node experience whatsoever to being able to produce their first basic Node applications.
 3. [Understanding the Node.js Event Loop](http://strongloop.com/strongblog/node-js-event-loop/#!)
 4. [Export This: Interface Design Patterns for Node.js Modules](http://bites.goodeggs.com/posts/export-this/): When you require a module in Node, what are you getting back? When you write a module, what options do you have for designing its interface?
+5. [Stream Handbook](https://github.com/substack/stream-handbook): This document covers the basics of how to write node.js programs with streams.
 
 ### Tools
 
