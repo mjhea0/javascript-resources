@@ -28,6 +28,7 @@ My little collection of resources. Enjoy.
 
 1. [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/): A creative-commons book on Backbone.js for beginners and advanced users alike
 2. [Backbone Tutorials](http://backbonetutorials.com/)
+3. [Introduction to Backbone.js](https://www.youtube.com/watch?v=rL9LnUHJ4W4)
 
 ### Node
 
