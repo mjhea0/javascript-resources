@@ -11,6 +11,7 @@ My little collection of resources. Enjoy.
 5. [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/): A JavaScript pattern and antipattern collection that covers function patterns, jQuery patterns, jQuery plugin patterns, design patterns, general patterns, literals and constructor patterns, object creation patterns, code reuse patterns, DOM and browser patterns (upcoming).
 6. [Javascript Scope Quiz](http://madebyknight.com/javascript-scope/)
 7. [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
+8. [JavaScript Best Practices : Variable scoping and hoisting](http://conceptf1.blogspot.com/2014/01/javascript-best-practices-variable-scoping-and-hoisting.html?goback=%2Egde_121615_member_5830617148505997315): In this article we will see hoisting effect of variable in JavaScript. What would be its effect and how to escape these situations?
 
 ### jQuery
 
@@ -50,6 +51,10 @@ My little collection of resources. Enjoy.
 ### Express
 
 1. [Understanding Express.js](http://evanhahn.com/understanding-express-js/): This is aimed at people who have some familiarity with Node.js. They know how to run Node scripts and can install packages with npm. You don't have to be an expert, though -- I promise. 
+
+### Ember
+
+1. [A Guide to Building Your First Ember.js App](http://www.toptal.com/javascript/a-step-by-step-guide-to-building-your-first-ember-js-app?goback=%2Egde_121615_member_5834521703132209154)
 
 ### Other
 
