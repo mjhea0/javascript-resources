@@ -38,6 +38,7 @@ My little collection of resources. Enjoy.
 3. [Understanding the Node.js Event Loop](http://strongloop.com/strongblog/node-js-event-loop/#!)
 4. [Export This: Interface Design Patterns for Node.js Modules](http://bites.goodeggs.com/posts/export-this/): When you require a module in Node, what are you getting back? When you write a module, what options do you have for designing its interface?
 5. [Stream Handbook](https://github.com/substack/stream-handbook): This document covers the basics of how to write node.js programs with streams.
+6. [Learn You The Node.js](http://jamescarl.us/blog/learn-you-the-node-js/): The first challenge in this Node.js training module utilizes the process.argv function to collect arguments/info/data from the command line.
 
 ### Tools
 
