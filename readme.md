@@ -14,6 +14,7 @@ My little collection of resources. Enjoy.
 8. [JavaScript Best Practices : Variable scoping and hoisting](http://conceptf1.blogspot.com/2014/01/javascript-best-practices-variable-scoping-and-hoisting.html?goback=%2Egde_121615_member_5830617148505997315): In this article we will see hoisting effect of variable in JavaScript. What would be its effect and how to escape these situations?
 9. [Storing and accessing real-time data with Local Storage](http://www.alexpcoleman.com/new-year-of-coding/lesson-4-local-storage/)
 10. [Data Visualization with Javascript](http://sathomas.me/jsdataviz/index.html)
+11. [Four Books to Master JavaScript Engineering](http://dannygarcia.tumblr.com/post/75769524212/four-books-to-master-javascript-engineering)
 
 ### jQuery
 
