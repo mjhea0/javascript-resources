@@ -15,6 +15,7 @@ My little collection of resources. Enjoy.
 9. [Storing and accessing real-time data with Local Storage](http://www.alexpcoleman.com/new-year-of-coding/lesson-4-local-storage/)
 10. [Data Visualization with Javascript](http://sathomas.me/jsdataviz/index.html)
 11. [Four Books to Master JavaScript Engineering](http://dannygarcia.tumblr.com/post/75769524212/four-books-to-master-javascript-engineering)
+12. [A List of Foundational JavaScript Tools](https://www.codefellows.org/blogs/complete-list-of-javascript-tools)
 
 ### jQuery
 
